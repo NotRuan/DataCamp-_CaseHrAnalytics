@@ -60,11 +60,19 @@ O projeto foi dividido em **4 páginas analíticas**:
 
 1. **Overview** - Visão geral da força de trabalho e tendências de contratação
 
+<img width="1274" height="719" alt="Image" src="https://github.com/user-attachments/assets/815a3eef-8ee6-4337-a62b-88388a01f135" />
+
 2. **Demographics** - Análise demográfica (idade, gênero, estado civil, etnia)
+
+<img width="1269" height="715" alt="Image" src="https://github.com/user-attachments/assets/b72e55b2-8ad7-4be2-bf19-84b3c338eb7c" />
 
 3. **Performance Tracker** - Acompanhamento individual de satisfação e performance
 
+<img width="1281" height="716" alt="Image" src="https://github.com/user-attachments/assets/3242221c-a8b4-4823-9ae2-52257c828e08" />
+
 4. **Attrition** - Análise profunda dos fatores de turnover
+
+<img width="1277" height="718" alt="Image" src="https://github.com/user-attachments/assets/a36148a4-f78f-466b-b42e-603b21fccc9f" />
 
 ---
 
@@ -87,7 +95,7 @@ O projeto foi dividido em **4 páginas analíticas**:
 - **Relacionamentos 1:N:** Configuração de cardinalidade e direção de filtros
 - **Tabelas Calendário:** Criação de dimensão temporal para análises de tendência
 
-## Imagem
+<img width="815" height="762" alt="Image" src="https://github.com/user-attachments/assets/7c44db60-1afe-4304-883a-ed7588fb76b1" />
 
 ### Visualização de Dados
 - **KPIs Cards:** Destaque de métricas principais (total de funcionários, taxa de atrito, idade média)
