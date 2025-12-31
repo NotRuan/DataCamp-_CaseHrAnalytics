@@ -238,5 +238,5 @@ Este projeto me permitiu:
 ## 📞 Contato
 
 **Seu Nome**  
-💼 LinkedIn: [linkedin.com/in/seuperfil](https://www.linkedin.com/in/ruan-gabriel-gomes-da-silva-b4519b20a/)  
+💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/ruan-gabriel-gomes-da-silva-b4519b20a/)  
 🐙 GitHub: [github.com/seuusuario]([https://github.com/seuusuario](https://github.com/NotRuan))
