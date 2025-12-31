@@ -239,4 +239,4 @@ Este projeto me permitiu:
 
 **Seu Nome**  
 💼 LinkedIn: [LinkedIn](https://www.linkedin.com/in/ruan-gabriel-gomes-da-silva-b4519b20a/)  
-🐙 GitHub: [github.com/seuusuario]([https://github.com/seuusuario](https://github.com/NotRuan))
+🐙 GitHub: [GitHub](https://github.com/NotRuan)
